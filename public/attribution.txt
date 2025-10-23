@@ -1,0 +1,6 @@
+Fake-file.svg
+    https://www.iconfinder.com/icons/6497929/communication_computer_file_home_internet_laptop_work_icon
+Blue-home.svg
+    https://www.iconfinder.com/icons/8956808/home_ui_house_web_internet_page_user_interface_website_computer_icon
+Teal-home.svg
+    https://www.iconfinder.com/icons/2835277/apartment_home_homepage_house_housing_shelter_icon
